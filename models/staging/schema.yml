@@ -9,7 +9,7 @@ sources:
       # For postgres:
       #database: production
 
-      schema: taxi_data_all
+      schema: trip_data_all
 
       # loaded_at_field: record_loaded_at
       tables:
