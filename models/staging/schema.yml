@@ -4,10 +4,10 @@ version: 2
 sources:
     - name: staging
       #For bigquery:
-      #database: calcium-petal-376805
+      database: calcium-petal-376805
 
       # For postgres:
-      database: production
+      #database: production
 
       schema: trip_data_all
 
